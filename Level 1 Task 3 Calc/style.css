@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding:10px;
+    background-image: url(https://st4.depositphotos.com/21038662/22914/i/450/depositphotos_229145908-stock-photo-rugged-wrinkled-black-paper-background.jpg);
+  }
+  form{
+    background-color: #1ee6859b;
+    margin:25px;
+  }
+  h1{
+    color: rgb(255, 4, 4);
+    margin: 25px;
+    padding: 25px;
+    background-color: #7fde3b;
+  }
+  table {
+    border-collapse: collapse;
+    padding: left 25px;;
+    margin: 20px auto;
+    background-color:rgb(25, 25, 136);
+  }
+  
+  td {
+    padding: 10px;
+    border: 1px solid #d4da16bf;
+    
+  }
+  
+  button[type="button"] {
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    border: none;
+    border-radius: 5px;
+    background-color: #6068f7;
+    cursor: pointer;
+  }
+  
+  button[type="button"]:hover {
+    background-color: #d8c924;
+  }
+  
+  #display {
+    width: 200px;
+    height: 30px;
+    font-size: 24px;
+    padding: 10px;
+    border: 1px solid #7fde3b;
+    border-radius: 5px;
+    text-align: right;
+  }
